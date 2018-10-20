@@ -20,4 +20,6 @@ Depending on the length of the sentence, more than one text keyword value may be
 
 This is also the case for tone - many tones may be detected - the returned data frame will contain all as numbered columns.
 
+Both functions are in the format `ibm_function(username, password, text_to_be_tested)`.
+
 ***
