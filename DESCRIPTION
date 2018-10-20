@@ -1,0 +1,17 @@
+Package: IBMsentR
+Type: Package
+Title: Analyse sentiment with IBM Watson in R
+Version: 0.0.1
+Author: Paul Newnes
+Maintainer: Paul Newnes <paulnewnes@gmail.com>
+Description: Easy sentiment analysis.
+Imports:
+    httr,
+    tidyverse,
+Depends:
+    httr,
+    tidyverse,
+License: 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
